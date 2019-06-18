@@ -6,9 +6,13 @@
     wrap
     row>
       
- 
+      <v-flex lg6>
+          <img class="container"
+            src="https://www.tutorialrepublic.com/snippets/designs/thumbnail-carousel-with-content.png" />
+      </v-flex>
+
       <v-flex 
-      style="padding-left:2rem;"
+      style="padding-left:1rem;"
       lg6>
         
         <h1 class="
@@ -30,12 +34,6 @@
           mendapingi event kamu dari awal hingga akhir untuk menghadirkan pengalaman event terbaik.
         </div>
       </v-flex>
-      
-      <v-flex lg6>
-          <img class="container"
-            src="https://www.tutorialrepublic.com/snippets/designs/thumbnail-carousel-with-content.png" />
-      </v-flex>
-
   
   </v-layout>
 </template>
